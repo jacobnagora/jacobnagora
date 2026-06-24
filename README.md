@@ -1,6 +1,6 @@
 # Jacob Nagora
 
-Portfolio Management Assistant at RBC PH&N Investment Counsel and CFA Level III candidate. Focused on integrating Python into real-world financial workflows, particularly for portfolio analytics such as return analysis, risk decomposition, and technical screening.
+Portfolio Management Assistant at RBC PH&N Investment Counsel and CFA Level III candidate. Passionate about portfolio engineering and risk management. Interested in building Python tools for return attribution, risk decomposition, and portfolio analytics.
 
 ## Focus Areas
 - Python for finance: data sourcing, analysis, and visualization
